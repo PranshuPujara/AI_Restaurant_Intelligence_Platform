@@ -1,4 +1,4 @@
-# 🍽️ Petpooja AI Ecosystem
+# 🍽️ AI Restaurant Intelligence Platform
 
 > AI-Powered Restaurant Management Platform with Analytics Dashboard & On-Device Voice POS
 
